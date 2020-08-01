@@ -7,3 +7,7 @@
 
 
 - HTML document and JavaScript listen for events and search through the date/time column to find rows that match user input.
+
+- Level 1: Contains an automatic table and date search field
+
+- Level 2: Contains multiple search criteria categories
